@@ -790,6 +790,7 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content p {
+    margin-top: 20px;
     margin-bottom: 30px;
 }
 
@@ -806,7 +807,7 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content img {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 .portfolio-modal .close-modal {

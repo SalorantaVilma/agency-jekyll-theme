@@ -17,11 +17,11 @@
                             <div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
                             {% for image in post.images %}
                                 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                                <a href="img/portfolio/{{ image.file }}" itemprop="contentUrl" data-size="{{ image.size }}">
-                                    <img src="img/portfolio/{{ image.file }}" itemprop="thumbnail" alt="{{ image.title }}"  class="img-responsive img-centered" />
-                                </a>
-                                <figcaption itemprop="caption description">{{ image.title }}</figcaption>
-                                </figure><br>
+                                    <a href="img/portfolio/{{ image.file }}" itemprop="contentUrl" data-size="{{ image.size }}">
+                                        <img src="img/portfolio/{{ image.file }}" itemprop="thumbnail" alt="{{ image.title }}"  class="img-responsive img-centered" />
+                                    </a>
+                                    <figcaption itemprop="caption description">{{ image.title }}</figcaption>
+                                </figure>
                             {% endfor %}
                             </div>
                             <p>{{ post.description }}</p>
