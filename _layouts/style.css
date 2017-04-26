@@ -5,3 +5,13 @@
 .about-text {
     text-align: left;
 }
+
+.row.margined-row {
+    margin-top: 0;
+}
+
+@media (min-width: 992px) {
+    .row.margined-row  {
+        margin-top: 75px;
+    }
+}
