@@ -1,0 +1,21 @@
+---
+title: E-mail Application
+subtitle: Mobile Application Design for Android
+layout: default
+modal-id: 4
+date: 2017-04-26
+images: 
+    - file: E-mail_Sidemenu.png
+      title: The left side menu
+      size: 1201x1920
+    - file: E-mail_Inbox.png
+      title: The inbox view
+      size: 1201x1920
+    - file: E-mail_Openmail.png
+      title: An opened mail
+      size: 1201x1920
+thumbnail: E-mail_thumbnail.png
+project-date: April 2017
+description: An application for reading and organizing e-mails. 
+
+---
