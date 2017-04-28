@@ -5,13 +5,13 @@ layout: default
 modal-id: 1
 date: 2015-04-01
 images: 
-    - file: Kuvasovellus_albumit_3D.jpg
+    - file: photoalbums_albums_3d.jpg
       title: Albums in 3D view
       size: 3606x2028
-    - file: Kuvasovellus_kuvat_2D.jpg
+    - file: photoalbums_photos_2d.jpg
       title: Photos in 2D view
       size: 3606x2028
-    - file: Kuvasovellus_kuvat_3D.jpg
+    - file: photoalbums_photos_3d.jpg
       title: Photos in 3D view
       size: 3606x2028
 thumbnail: photoalbums_thumbnail.jpg
