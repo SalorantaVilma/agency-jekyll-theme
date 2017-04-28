@@ -6,13 +6,13 @@ modal-id: 4
 date: 2017-04-26
 images: 
     - file: E-mail_Sidemenu.png
-      title: The left side menu
-      size: 1201x1920
+      title: The left side menu. Includes personal information (photo, name and e-mail address), the main folders, other folders (the plus icon creates more folders), settings, help and logout. The unread messages and unfinished drafts are highlighted with an orange circle. The other part of the screen is darkened when the side menu is opened. The side menu can be closed by clicking other part of the screen. 
+      size: 1200x1920
     - file: E-mail_Inbox.png
-      title: The inbox view
+      title: The inbox view. New messages are shown with orange colored font. One click on a message opens the toolbar below the e-mail. A double-click opens the e-mail. 
       size: 1201x1920
-    - file: E-mail_Openmail.png
-      title: An opened mail
+    - file: E-mail_Openedmail.png
+      title: An opened e-mail. A double-click opens the e-mail. Below the headline, sender info and the message are the attachments and the toolbar. 
       size: 1201x1920
 thumbnail: E-mail_thumbnail.png
 project-date: April 2017
